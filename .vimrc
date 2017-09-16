@@ -5,4 +5,6 @@ nnoremap <F5> :buffers<CR>:buffer<Space>
 
 set mouse=a
 set nu
+
+" syn off
 " autocmd vimenter * NERDTree
